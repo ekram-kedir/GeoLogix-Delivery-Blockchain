@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "GeoLogix-Delivery-Blockchain",
+			"path": "../../.."
+		},
+		{
+			"name": "scripts",
+			"path": "../../../../../hey/art_sell_buy_ether/scripts"
+		}
+	],
+	"settings": {}
+}
